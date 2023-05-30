@@ -1,0 +1,187 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"オープニング","","","",""
+"All characters in this game are fictional and any
+similarities to real people is purely coincidence.
+Any characters engaged in sexually explicit content
+are over the age of 18. ","","Все персонажи в этой игре вымышленные и любой
+сходство с реальными людьми чистое совпадение.
+Любые персонажи, задействованные в откровенно сексуальном контенте
+старше 18 лет.","",""
+"show_treasure_popup","","","",""
+"\n<Adventurer A>Looks like we're almost to the city.","","\n<Adventurer A>Похоже, мы почти в городе.","",""
+"\n<Adventurer B>\C[1]The City of Ruins, Gardona\C[0]... 
+do you really think we're going get rich there?","","\n<Adventurer B>\C[1]Город руин, Гардона\C[0]...
+ты правда думаешь, что мы там разбогатеем?","",""
+"\n<Adventurer A>Of course. It's like I keep telling you, several years back; 
+gold, ancient scrolls, and some unknown metals were discovered from 
+within the ruins.","","\n<Adventurer A> Конечно. Как будто я постоянно говорю вам, несколько лет назад;
+золото, древние свитки и некоторые неизвестные металлы были обнаружены в
+внутри руин.","",""
+"\n<Adventurer A>It's rumored that adventurers, treasure hunters, and traders 
+are all flocking there. They're all trying to catch 
+their ""big break."" ","","\n<Adventurer A>Ходят слухи, что искатели приключений, охотники за сокровищами и торговцы
+все туда стекаются. Они все пытаются поймать
+их «большой прорыв».","",""
+"\n<Adventurer A>Thanks to that rumor, the city has become overcrowded.","","\n<Adventurer A> Благодаря этому слуху город стал переполнен.","",""
+"\n<Adventurer B>If there's that many people, doesn't that mean there 
+are less opportunities?","","\n<Adventurer B>Если там так много людей, значит там
+меньше возможностей?","",""
+"\n<Adventurer A>Not necessarily.
+Apparently, no one has found the innermost depths of the ruins 
+yet. And they say there's something even more incredible than 
+mere treasure in there. We can't ignore that, right?","","\n<Adventurer A> Не обязательно.
+Судя по всему, никто не нашел сокровенных глубин руин.
+еще. И они говорят, что есть что-то еще более невероятное, чем
+просто сокровище там. Мы не можем игнорировать это, верно?","",""
+"\n<Adventurer B>Doesn't that sound crazy dangerous, though?","","\n<Adventurer B>Разве это не звучит безумно опасно?","",""
+"\n<Adventurer A>Well sure, there are monsters in the ruins. Also, 
+apparently something brutal is lurking in there. 
+And recently, there's been thieves, mercenaries, 
+and other dangerous people in the city.","","\n<Adventurer A>Конечно, в руинах есть монстры. Также,
+видимо что-то жестокое там таится.
+А недавно появились воры, наемники,
+и другие опасные люди в городе.","",""
+"\n<Adventurer B>Hey! Now you're making me not want to go!","","\n<Adventurer B>Эй! Теперь ты заставляешь меня не хотеть идти!","",""
+"\n<Adventurer A>But the kingdom's investigation hasn't started yet, 
+so now's our chance! If we move quick, we can 
+strip that place clean!","","\n<Adventurer A>Но расследование королевства еще не началось,
+так что теперь наш шанс! Если мы будем двигаться быстро, мы сможем
+раздень это место начисто!","",""
+"\n<Adventurer A>That's why it's worth the risk! We're aiming for 
+the motherlode!","","\n<Adventurer A> Вот почему стоит рискнуть! Мы стремимся к
+матушка!","",""
+"\n<Adventurer B>Hahh, I guess I have no choice. But if things get dicey, 
+we're out of here, okay?","","\n<Adventurer B>Hahh, наверное, у меня нет выбора. Но если все становится рискованным,
+мы уходим отсюда, хорошо?","",""
+"\n<Adventurer A>Hehe... I got your back. 
+Now let's go get rich!","","\n<Adventurer A>Хе-хе... Я тебя прикрою.
+Теперь пойдем разбогатеем!","",""
+"\n<???>Sorry to burst your bubble, but I'm afraid you won't be 
+making it to Gardona! Hyahahaha!","","\n<???>Извините, что лопнул ваш пузырь, но, боюсь, вы не будете
+добраться до Гардоны! Хяхахаха!","",""
+"\n<Bandit>Y'know, since you'll be dyin' here.","","\n<Bandit>Знаешь, раз уж ты здесь умрешь.","",""
+"\n<Adventurer B>Wha... bandits!?","","\n<Adventurer B>Что... бандиты!?","",""
+"\n<Bandit>Looks like you two fell for that rumor. 
+Thanks to that, business is booming for us!","","\n<Bandit>Похоже, вы двое повелись на этот слух.
+Благодаря этому бизнес у нас процветает!","",""
+"\n<Bandit>And with all these fish in a barrel, it looks like we'll 
+be workin' overtime! Uhehehehe.","","\n<Bandit>И со всей этой рыбой в бочке, похоже, мы
+работать сверхурочно! Ухе-хе-хе.","",""
+"\n<Adventurer B>This can't be happening... we're so close to town too... ","","\n<Adventurer B>Этого не может быть... мы тоже так близко к городу...","",""
+"\n<Bandit>Now then, which one of ya will die first?","","\n<Bandit> Итак, кто из вас умрет первым?","",""
+"\n<Adventurer A>Shit! What should we do!?","","\n<Adventurer A>Черт! Что нам делать!?","",""
+"\n<Adventurer B>We need to try and escape... but how?","","\n<Adventurer B>Нам нужно попытаться сбежать... но как?","",""
+"\n<Bandit>Are you serious? You're totally outnumbered. 
+If you try and run, I can't guarantee a quick death.","","\n<Bandit> Вы серьезно? Вы полностью в меньшинстве.
+Если вы попытаетесь сбежать, я не могу гарантировать быструю смерть.","",""
+"\n<Adventurer A>Damn...!","","\n<Adventurer A>Черт...!","",""
+"\n<???>Get off the road!","","\n<???>Уйди с дороги!","",""
+"\n<???>Nobody can get through if you all stand there like
+a bunch of idiots.","","\n<???>Никто не сможет пройти, если вы все будете стоять как
+сборище идиотов.","",""
+"\n<Bandit>Who the hell are you? A friend of these guys?","","\n<Bandit> Кто ты, черт возьми, такой? Друг этих парней?","",""
+"\n<Bandit>Hey, it's a woman! A hot one at that. Man, look at those 
+huge tits, they're begging to be fucked! Hehehe.","","\n<Bandit>Эй, это женщина! При чем горячий. Мужик, посмотри на тех
+огромные сиськи, они просят, чтобы их трахнули! Хе-хе.","",""
+"\n<Bandit>This is our lucky day! We've never had a woman 
+quite like this. This'll make the boss happy!","","\n<Bandit>Это наш счастливый день! У нас никогда не было женщины
+совсем как это. Это сделает босса счастливым!","",""
+"\n<???>My eyes are up here. And did you actually just say that 
+right in front of me? Do you have a death wish?","","\n<???> Мои глаза здесь. И ты на самом деле только что сказал, что
+прямо передо мной? У тебя есть желание умереть?","",""
+"\n<Bandit>Oh, don't think I didn't see your face. You're a fine 
+woman all around! Hyahahaha!","","\n<Bandit>О, не думай, что я не видел твоего лица. ты в порядке
+женщина вокруг! Хяхахаха!","",""
+"\n<Adventurer A>Wait, that flaming red hair... could it be...?","","\n<Adventurer A> Подождите, эти огненно-рыжие волосы... может быть...?","",""
+"\n<???>And here I gave a you chance to escape. 
+Looks like you're just a bunch of idiots after all.","","\n<???> И тут я дал тебе шанс спастись.
+Похоже, вы все-таки кучка идиотов.","",""
+"\n<Bandit>Alright! We're going to capture the woman first!","","\n<Bandit>Хорошо! Сначала мы захватим женщину!","",""
+"\n<Bandit>Hyaha! Looks like we're having fun tonight!♪","","\n<Bandit>Хьяха! Похоже, сегодня мы весело проводим время!♪","",""
+"\n<???>Do you really think I'd be caught by a bunch of 
+small fry like you!?","","\n<???>Вы действительно думаете, что меня поймает кучка
+мелкая сошка, как ты!?","",""
+"\n<Bandit>Gah... ","","\n<Bandit>Гах...","",""
+"\n<Bandit>Guh... ","","\n<Bandit>Гх...","",""
+"\n<Adventurer>What the hell... she took out three of them just like 
+that!?","","\n<Adventurer> Какого черта... она вырубила троих прямо как
+что!?","",""
+"\n<Adventurer A>That hair, and that power... she has to be... ","","\n<Adventurer A>Эти волосы и эта сила... она должна быть...","",""
+"\n<Bandit>Wh-wha... What's up with this bitch!? Who the hell are you!?","","\n<Bandit>Wh-wha... Что с этой сучкой!? Кто ты, черт возьми!?","",""
+"\n<Makina>... Makina.","","\n<Makina>... Макина.","",""
+"\n<Adventurer A>It IS her! \C[20]Blazing Haired Makina\C[0]!","","\n<Adventurer A>Это она! \C[20]Пылающая Макина\C[0]!","",""
+"\n<Bandit>Makina, huh? You'll pay for this!","","\n<Bandit>Макина, да? Вы заплатите за это!","",""
+"\n<Makina>Uh-huh, sure. Now could you fuck off already?
+Or do you want to end up like your friends?","","\n<Makina>Угу, конечно. Теперь ты можешь уже отвалить?
+Или ты хочешь закончить как твои друзья?","",""
+"\n<Bandit>Tch... looks like you're heading to Gardona, too. 
+You better watch yourself, we have people everywhere.","","\n<Bandit>Tch... Похоже, вы тоже направляетесь в Гардону.
+Ты лучше следи за собой, у нас везде люди.","",""
+"\n<Makina>And I'll be waiting.
+Let your boss know, will you?","","\n<Makina> А я буду ждать.
+Сообщите своему боссу, хорошо?","",""
+"\n<Bandit>Dammit... let's get out of here!","","\n<Bandit>Черт возьми... пошли отсюда!","",""
+"\n<Adventurer A>You're Blazing Haired Makina, right?","","\n<Adventurer A>Ты же пылающеволосая Макина, верно?","",""
+"\n<Makina>You know who I am?","","\n<Makina>Вы знаете, кто я?","",""
+"\n<Adventurer A>Of course! You're famous amongst adventurers. They 
+say your strength is unmatched, and that not even an
+army could stand against you.","","\n<Adventurer A>Конечно! Ты известен среди авантюристов. Они
+сказать, что ваша сила не имеет себе равных, и что даже
+армия может выстоять против вас.","",""
+"\n<Adventurer A>But man, I had no idea you'd be this gorgeous.","","\n<Adventurer A>Но, чувак, я понятия не имел, что ты будешь такой великолепной.","",""
+"\n<Makina>Thanks... I guess.","","\n<Makina>Спасибо... Наверное.","",""
+"\n<Adventurer B>You headed to Gardona?","","\n<Adventurer B>Вы направились в Гардону?","",""
+"\n<Makina>Yeah, I've been hearing rumors about it for a while now. 
+I figured I'd come take a look. Maybe do a little work.","","\n<Makina>YДа, до меня уже давно доходят слухи об этом.
+Я подумал, что приеду посмотреть. Может немного поработать.","",""
+"\n<Adventurer B>I see. Well, if it's you, I'm sure you'll be in high demand.","","\n<Adventurer B>I см. Ну, если это ты, я уверен, ты будешь пользоваться большим спросом.","",""
+"\n<Adventurer A>All that aside, you saved our asses! I never thought 
+we'd run into bandits this close to town.","","\n<Adventurer A>Все это в стороне, вы спасли наши задницы! я никогда бы не подумал
+мы бы столкнулись с бандитами так близко к городу.","",""
+"\n<Adventurer A>Well, hope to see you around! See ya!","","\n<Adventurer A> Ну, до встречи! До встречи!","",""
+"\n<Makina>Hold it! Where do you think you're going all of sudden?","","\n<Makina> Постой! Как вы думаете, куда вы идете вдруг?","",""
+"\n<Both Adventurers>Huh?","","\n<Both Adventurers>А?","",""
+"\n<Makina>Don't 'Huh?' me. I just rescued you. Where's the gratitude?","","\n<Makina>Не 'А?' мне. Я только что спас тебя. Где благодарность?","",""
+"\n<Adventurer A>Gratitude? Oh, yeah, I guess you're right.","","\n<Adventurer A>Благодарность? О, да, я думаю, ты прав.","",""
+"\n<Makina>Let's see, rescuing two people from mortal danger... 
+That brings the total to... 2000 gold.","","\n<Makina>Посмотрим, спасая двух человек от смертельной опасности...
+Итого получается... 2000 золотых.","",""
+"\n<Adventurer A>2000 gold!? There's no way we're going to pay that! 
+That's almost all of our money! We wouldn't even be 
+able to pay for an inn!","","\n<Adventurer A>2000 золото!? Мы ни за что не заплатим!
+Это почти все наши деньги! Мы бы даже не были
+в состоянии заплатить за гостиницу!","",""
+"\n<Makina>It's pretty cheap compared to your life, isn't it?","","\n<Makina> Это довольно дешево по сравнению с вашей жизнью, не так ли?","",""
+"\n<Adventurer A>Gr... that's bullshit! We didn't ask for your help, 
+you did that on your own. And now you're asking for 
+money? Aren't you getting ahead of yourself?","","\n<Adventurer A>Gr... чушь собачья! Мы не просили твоей помощи,
+ты сделал это сам. И теперь вы просите
+деньги? Вы не забегаете вперед?","",""
+"\n<Makina>Hm~ Well, that's fine, I'll just kill you in place of 
+those bandits... ","","\n<Makina>Hm~ Ну ничего, я просто убью тебя вместо
+эти бандиты...","",""
+"\n<Adventurer A>Damn... this fucking woman... ","","\n<Adventurer A>Черт... эта чертова женщина...","",""
+"\n<Adventurer B>I guess it can't be helped. We'll pay. You 
+did save us, and I really don't want to get killed 
+just after being rescued.","","\n<Adventurer B> Думаю, ничего не поделаешь. Мы заплатим. Ты
+спас нас, и я действительно не хочу, чтобы меня убили
+сразу после спасения.","",""
+"\n<Adventurer A>Dammit... ","","\n<Adventurer A>Черт возьми...","",""
+"Received 2000 gold.","","Получил 2000 золотых.","",""
+"\n<Makina>Fufu~ Thank you.~♪","","\n<Makina>Fufu~ Спасибо.~♪","",""
+"\n<Adventurer A>Tch. There! We paid you! Now get out of here!","","\n<Adventurer A>Tch. Там! Мы заплатили вам! А теперь убирайся отсюда!","",""
+"\n<Makina>Yeah, yeah. Be more careful next time, you two.","","\n<Makina>Да, да. Будьте осторожнее в следующий раз, вы двое.","",""
+"\n<Adventurer A>That bitch. I'm going to get back at her someday. 
+I'll remember this... ","","\n<Adventurer A>Эта сука. Когда-нибудь я вернусь к ней.
+Я буду помнить это...","",""
+"\n<Adventurer B>So that's Blazing Haired Makina... ","","\n<Adventurer B>Итак, это Макина с пылающими волосами...","",""
+"\n<Adventurer B>Well, there's no point in us standing around, 
+shall we get going?","","\n<Adventurer B>Ну, нет смысла стоять рядом,
+пойдем?","",""
+"EV002","","","",""
+"EV003","","","",""
+"EV004","","","",""
+"EV005","","","",""
+"EV006","","","",""
+"EV007","","","",""
+"EV008","","","",""
