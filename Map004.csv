@@ -1,0 +1,485 @@
+"Original Text","Initial","Machine translation","Better translation","Best translation"
+"Adventurer's Guild","","","",""
+"EV001","","","",""
+"EV002","","","",""
+"EV003","","","",""
+"EV004","","","",""
+"EV005","","","",""
+"EV006","","","",""
+"EV007","","","",""
+"EV008","","","",""
+"\n<Guild Receptionist>If you're looking for Ms. Irina, 
+she's in her office to your left.","","","",""
+"\n<Guild Receptionist>Ah, I see you received a permit. Congratulations!","","","",""
+"\n<Guild Receptionist>Ah! Makina, Ms. Irina is calling for you.","","","",""
+"\n<Makina>She is? Alright, thanks.","","","",""
+"\n<Guild Receptionist>I'm not sure if it's important, but please be careful 
+in there, she's been quite upset since returning from 
+the ruins.","","","",""
+"\n<Makina>Haha, it's probably because of what happened... ","","","",""
+"\n<Guild Receptionist>Please do your best like you always do.","","","",""
+"\n<Guild Receptionist>Let's do our best tomorrow!","","","",""
+"\n<Guild Receptionist>It's finally time.
+Let's take this city back from Dalton!","","","",""
+"\n<Guild Receptionist>Thank you for your hard work, Makina. 
+The city should be a little safer now.","","","",""
+"\n<Guild Receptionist>Makina. Have you seen any dwarves in the ruins?","","","",""
+"\n<Makina>Yeah, I've seen them. 
+Though they seem to not want anything to do with humans.","","","",""
+"\n<Guild Receptionist>Dwarves tend to be unsociable towards outsiders.","","","",""
+"\n<Makina>Did you need something from them?","","","",""
+"\n<Guild Receptionist>Well you see, incidents involving
+adventurers and dwarves have been on the rise recently.
+Some dwarves whose homes were damaged are upset,
+and are attacking adventurers.","","","",""
+"\n<Guild Receptionist>Thankfully there haven't been any
+casualties yet, but if this continues, it could turn
+into a more serious conflict.","","","",""
+"\n<Makina>Wow, I had no idea this was happening... ","","","",""
+"\n<Guild Receptionist>So what do you think, Makina? 
+Could you help me out with this problem?","","","",""
+"\n<Makina>I'd be happy to help if there's compensation.","","","",""
+"\n<Guild Receptionist>Unfortunately, due to the Dalton case,
+all of the Guild's funds are tied up, so we don't
+have anything to pay you with.","","","",""
+"\n<Makina>Hmm, if that's the case, then I'm not really interested.","","","",""
+"\n<Guild Receptionist>I see... ","","","",""
+"\n<Celia>Then allow me to do something about it!","","","",""
+"\n<Makina>Celia.","","","",""
+"\n<Celia>If Makina doesn't want to do it, then I'll go in her stead.","","","",""
+"\n<Guild Receptionist>Really!?","","","",""
+"\n<Celia>Of course. What would you like me to 
+do about the dwarves in question?","","","",""
+"\n<Guild Receptionist>I would be quite thankful if you could
+find a way to settle this peacefully.","","","",""
+"\n<Celia>Understood. I'll see what I can do.","","","",""
+"\n<Makina>Are you sure about this, Celia?","","","",""
+"\n<Celia>Of course, just leave it to me.","","","",""
+"\n<Guild Receptionist>Then I'll leave the dwarf matter in your hands, Celia.","","","",""
+"\n<Celia>Very well, then I shall depart immediately.","","","",""
+"\n<Makina>I wonder if it's okay to leave something like that 
+up to Celia.","","","",""
+"Would you like to watch Celia's event? 
+(The scene will appear in your recollections regardless)","","","",""
+"Yes","","","",""
+"No","","","",""
+"\n<Guild Receptionist>Thanks to Celia, the dwarves have
+stopped being a problem. And now I can stop worrying
+about the other adventurers.","","","",""
+"EV009","","","",""
+"\n<Guild Staff>Hahh, no matter how much I do, the work just never ends.
+I really want to hit up that massage place I've heard 
+rumors of. But I just can't figure out where it is, 
+even though it has a good rep.","","","",""
+"\n<Guild Staff>Huh? The massage parlor is in the underground market? 
+Oh, I wanted to go, but it's probably good that I didn't.","","","",""
+"EV010","","","",""
+"\n<Guild Staff>Hmmm, in the end, we still don't know what the ruins were 
+built for. Even the reports from the adventurers aren't 
+giving me a clear picture.","","","",""
+"\n<Guild Staff>So Allos finally got fired, huh? 
+He wasn't bad to work with, but he was too incompetent.","","","",""
+"\n<Guild Staff>I wonder what he's going to do from here on.","","","",""
+"\n<Guild Staff>I wonder what Allos is up to now... ","","","",""
+"EV011","","","",""
+"\n<Guild Adventurer>I saw some bandits in the ruins earlier.
+I got away before they noticed me, 
+but things are getting dangerous.","","","",""
+"\n<Guild Adventurer>It seems like Dalton hired a lot of people. 
+It's going to be difficult to track all of them.","","","",""
+"\n<Guild Adventurer>Irina's become a little nicer recently.
+To think the tyrant would suddenly become kinder like that.
+I think I see her differently now... ","","","",""
+"EV012","","","",""
+"\n<Guild Staff>Ms. Irina and Mr. Dalton seem to be having a stand-off.
+The problem seems to be that Mr. Dalton won't support 
+the Guild and the adventurers are caging him in.","","","",""
+"\n<Guild Staff>To think Dalton had a hand in those crimes. 
+You really can't judge a person by their looks.","","","",""
+"\n<Guild Staff>Even though we caught Dalton, we still
+have to search for his accompices... 
+I guess I'm not going home today either.","","","",""
+"EV013","","","",""
+"\n<Guild Adventurer>Wait, aren't you Blazing Haired Makina?
+No way! I can't believe I'm meeting someone famous here!","","","",""
+"\n<Guild Adventurer>(But seriously, her tits are huge! 
+Just once, just once I'd love to 
+play around with tits that big.)","","","",""
+"EV014","","","",""
+"\n<Guild Staff>We've had a number of reports recently of female 
+adventurers going missing recently. The Guild is 
+investigating, but we haven't found any answers yet.","","","",""
+"\n<Guild Staff>There are quite a lot missing female adventurers. 
+I wonder if it's related to the underground market?","","","",""
+"\n<Guild Staff>So the missing adventurers were Dalton's doing. 
+We can't let him get away with what he did to those women. 
+He must pay for his crimes.","","","",""
+"\n<Guild Staff>Looks like all the adventures were safely rescued. 
+Thank goodness we made it on time...","","","",""
+"イリーナ","","","",""
+"\n<Irina>I'll let you know when I need your assistance. Until then,
+feel free to explore the ruins to your hearts content.","","","",""
+"\n<Irina>Infiltrate the underground market, and find evidence 
+linking Dalton with the illegal trade there. 
+I'm counting on you.","","","",""
+"\n<Irina>When you find absolute proof, report back to me.","","","",""
+"\n<Makina>Irina, I found proof of Dalton's crimes.","","","",""
+"\n<Irina>Really!? As expected from Blazing Haired Makina. 
+Can I see it?","","","",""
+"\n<Makina>First, there's this. A written contract with Dalton's 
+signature, along with some other documents.","","","",""
+"\n<Irina>Let's see... ","","","",""
+"\n<Irina>I see... we can prove his crimes with these documents. 
+Thank you, Makina.","","","",""
+"\n<Irina>I can't believe you collected all these documents 
+in such a short time. I'm impressed. The difference 
+between you and that idiot who worked for me is vast.","","","",""
+"\n<Makina>Haha... I'm glad to hear you're happy with that... ","","","",""
+"\n<Makina>But that's not the only evidence I found... ","","","",""
+"\n<Irina>You have more to show me?","","","",""
+"\n<Makina>Regarding the missing adventurers... 
+It was the work of Dalton. 
+He's been holding them in a dungeon in his 
+basement, in order to have his way with them.","","","",""
+"\n<Makina>He'd rape them using things like tentacles, 
+and sell drugged adventures to nobles.","","","",""
+"\n<Irina>... ","","","",""
+"\n<Makina>It made me sick just seeing it... ","","","",""
+"\n<Irina>That bastard... to think he's been doing something so 
+disgusting. If only I had suspected him sooner... ","","","",""
+"\n<Makina>There's still time to save them, 
+but we'll have to hurry.","","","",""
+"\n<Irina>Is there a reason?","","","",""
+"\n<Makina>I heard it from some men down there, but apparently 
+they're going to be transporting the adventurers soon, 
+so we have to rescue them before they do.","","","",""
+"\n<Irina>...It appears time is of the essence.","","","",""
+"\n<Irina>I understand. I'll make the preparations immediately. 
+Tomorrow, we'll storm Dalton's residence. 
+Can I count on your support?","","","",""
+"\n<Makina>Of course. I've come this far, 
+you couldn't stop me even if you tried.","","","",""
+"\n<Irina>Fufu, I had a feeling you'd say that.","","","",""
+"\n<Irina>Alright, come back here tomorrow when you're ready.","","","",""
+"\n<Makina>Got it. Let's give Dalton a surprise he'll never forget.","","","",""
+"\n<Irina>Indeed. Today will be his last day of freedom.","","","",""
+"\n<Irina>You're here. I've finished my preparations. 
+Are you ready to go?","","","",""
+"\n<Makina>Yup. I'm ready.","","","",""
+"\n<Makina>Speaking of which, regarding today's plan. 
+I've spoken with Celia about it.","","","",""
+"\n<Irina>You mean Celia of the Royal Knights?","","","",""
+"\n<Makina>That's her. She said she'd lend us a hand. 
+She should be here any moment.","","","",""
+"\n<Irina>Huh, I didn't know you knew each other. 
+But I'd be more than happy to have her help, 
+since I know I can rely on her.","","","",""
+"\n<Celia>Sorry to have kept you waiting.","","","",""
+"\n<Irina>No, don't worry about it. Rather, thank you for
+coming. It's reassuring to have the aid of a Royal Knight.","","","",""
+"\n<Celia>Dalton's actions are absolutely unforgivable. 
+It is my duty as a Knight to end his misdeeds.","","","",""
+"\n<Makina>Time to make him pay.","","","",""
+"\n<Irina>Agreed, let's get started.","","","",""
+"\n<Irina>Let's go over the plan. First, when we arrive at 
+Dalton's residence, guild personnel will surround 
+the house. After that, us three along with a 
+small group will rush in.","","","",""
+"\n<Irina>The guild members and I will go capture Dalton, while
+you two will head to the dungeon in the basement.","","","",""
+"\n<Irina>Once both objectives have been completed, the remaining 
+guild members will come in and seize the residence.","","","",""
+"\n<Makina>So we head to the dungeon, leave it to us.","","","",""
+"\n<Celia>Understood.","","","",""
+"\n<Irina>If you meet resistance, you're authorized to use 
+any force necessary. Your main objective is 
+the rescue of the captured adventurers.","","","",""
+"\n<Makina>Got it. Shall we get going?","","","",""
+"\n<Irina>Do you need to do something? 
+That's fine, but please make it quick.","","","",""
+"\n<Makina>(Ah, that's right, I haven't told 
+Celia about today's plan yet.)","","","",""
+"\n<Makina>Sorry Irina, but could you wait a little bit?","","","",""
+"\n<Irina>If there really is someone who can turn people into monsters, 
+then we have to do something about them.","","","",""
+"\n<Makina>Irina, do you have a moment?","","","",""
+"\n<Irina>Oh, Makina, what can I do for you?","","","",""
+"\n<Makina>I have something I wanted to report to you... 
+It's regarding that guy, Allos, that used to work here.","","","",""
+"\n<Irina>That's a name I didn't really want to hear again... ","","","",""
+"\n<Makina>You still haven't forgiven him...?","","","",""
+"\n<Irina>Considering what he did, of course not.","","","",""
+"\n<Irina>Anyways, what about him?","","","",""
+"\n<Makina>Just a bit ago, it looked like he was peeking in 
+through a guild house window. When I called out to him, 
+he left right away.","","","",""
+"\n<Irina>Peeking?","","","",""
+"\n<Makina>Yeah... I thought it was a little suspicious, 
+so I thought I'd let you know.","","","",""
+"\n<Irina>I see... ","","","",""
+"\n<Irina>Dammmit, what the hell is he up to!?","","","",""
+"Irina's brow furrows.","","","",""
+"\n<Makina>Well, that's all I wanted to report... ","","","",""
+"\n<Irina>Fuh... 
+I don't know what to make of this.","","","",""
+"\n<Makina>Sorry to trouble you with my paranoia.","","","",""
+"\n<Irina>It's no trouble at all.","","","",""
+"\n<Makina>Well, I'm going to get going... ","","","",""
+"\n<Irina>Okay, see you later.","","","",""
+"Do you want to view Irina's scene?
+(It will be added to your recollections regardless.)","","","",""
+"\n<Irina>I've been feeling a little off recently... ","","","",""
+"\n<Makina>Are you okay? 
+Maybe you've been overworking yourself... ","","","",""
+"\n<Irina>That could be it. Maybe I'll call 
+it early today, and go rest.","","","",""
+"\n<Makina>That's a good idea. It'd be bad if 
+you collapsed from exhaustion.","","","",""
+"\n<Irina>Thanks for worrying about me, Makina.","","","",""
+"\n<Makina>Don't worry about it, you're watching out for me too.","","","",""
+"\n<Irina>Ugh... it's not just the follow up on the Dalton case, 
+but there's also the cleanup of the underground market, 
+and I'm having trouble concentrating... ","","","",""
+"\n<Makina>Irina seems to be in a bad mood. 
+Maybe I should leave her be... ","","","",""
+"\n<Makina>Irina.","","","",""
+"\n<Makina>Irina? 
+What's wrong?","","","",""
+"\n<Irina>Huh!? 
+Uh, oh... Makina, I'm sorry. I was spacing out there.","","","",""
+"\n<Makina>Are you okay? 
+You're not overworking yourself again, are you?","","","",""
+"\n<Irina>No, I'm getting plenty of rest. 
+I'm actually feeling fine. 
+I'm just thinking about what's going to happen soon.","","","",""
+"\n<Makina>What's going to happen soon?","","","",""
+"\n<Irina>Yeah, it's something that I'm looking forward to... ","","","",""
+"\n<Makina>Wow, that's unusual. 
+Seeing you make that kind of face.","","","",""
+"\n<Irina>Sure, why not?","","","",""
+"\n<Makina>Now I'm curious what it is... ","","","",""
+"\n<Irina>It's a secret.","","","",""
+"\n<Makina>That just makes me even more curious!","","","",""
+"\n<Irina>Hey, I'm allowed to have a secret or two. 
+Now stop prying, or I'll make you regret it.","","","",""
+"\n<Makina>(Irina has seemed more relaxed lately... 
+Maybe it's because the Dalton case is over.)","","","",""
+"\n<Makina>Hey, Irina.","","","",""
+"\n<Irina>What's up?","","","",""
+"\n<Makina>About what you said before, what was 
+the thing you were looking forward to?","","","",""
+"\n<Irina>Hmm... 
+I guess you could say it was something to relieve stress.","","","",""
+"\n<Makina>I see... ","","","",""
+"\n<Makina>(In other words, she's not going to tell me...)","","","",""
+"\n<Irina>Fufu... \I[90]","","","",""
+"EV016","","","",""
+"\n<Makina>Is this the Adventurer's Guild?
+I'd like to get permission to go into the ruins.
+Can I do that here?","","","",""
+"\n<Guild Receptionist>Welcome, you're a new adventurer here correct?
+If you would like to explore the ruins, 
+you will need a permit from us.","","","",""
+"\n<Makina>What do I need to do to get one?","","","",""
+"\n<Guild Receptionist>To receive a permit, you will need to have an interview
+with the guild leader Ms. Irina.","","","",""
+"\n<Makina>An interview, huh... I'm not great with those.","","","",""
+"\n<Guild Receptionist>Please do your best.","","","",""
+"\n<Makina>About this guild leader, Irina, she doesn't seem to
+have a very good reputation amongst the adventurers here. 
+Seems like she's a bit harsh.","","","",""
+"\n<Guild Receptionist>Hmmm, that may be so, but Ms. Irina is a good person.","","","",""
+"\n<Guild Receptionist>She's taken charge of this city until the country 
+finally gets involved, and she's helping minimize the 
+damage from the bandits in the ruins.","","","",""
+"\n<Guild Receptionist>Although, recently they've started targeting the town more, 
+which is why Ms. Irina has started to try and recruit more 
+people to help out.","","","",""
+"\n<Makina>Sounds like things are getting rough. Well, 
+I guess I'll play along.","","","",""
+"\n<Guild Receptionist>Thank you very much.
+Ms. Irina's office is right over there.","","","",""
+"\n<Makina>Got it, thanks.","","","",""
+"アロス","","","",""
+"EV018","","","",""
+"\n<???>Don't fuck with me!!","","","",""
+"\n<Makina>W-what the!?","","","",""
+"\n<Yelling Woman>Allos! This report is completely wrong!
+What kind of lazy ass work is this!?","","","",""
+"\n<Man Called Allos>M-my apologies, Ms. Irina.","","","",""
+"\n<Irina>I don't need your damned apologies!","","","",""
+"\n<Allos>It should have been correct, but the magical energy from 
+the ruins must have distorted the data a bit.","","","",""
+"\n<Irina>A bit? This is on an entirely different level!
+If I'd sent a team in to investigate using this 
+data it would've been a disaster!","","","",""
+"\n<Allos>I-I'm sorry... ","","","",""
+"\n<Irina>Again! How many times do I have to say I don't 
+need your damned apologies!","","","",""
+"\n<Makina>Th-that must be the guild leader Irina... ","","","",""
+"\n<Makina>She certainly seems strong... 
+Seeing her angry is even making me tremble... 
+She's scary.","","","",""
+"\n<Irina>Fine, whatever! Get the hell out.","","","",""
+"\n<Allos>Y-yes. Excuse me... ","","","",""
+"\n<Allos>Um... please excuse me.","","","",""
+"\n<Makina>A-alright, here goes... ","","","",""
+"\n<Makina>You're Irina, right? 
+I'd like to get a permit to enter the ruins.","","","",""
+"\n<Irina>Hahh, another adventurer... 
+You don't seem that strong, wish you'd all just move on.","","","",""
+"\n<Makina>Why are you trying to make it like 
+this is such a pain in the ass?","","","",""
+"\n<Irina>Yeah yeah, it was just a joke.
+So, what's your name?","","","",""
+"\n<Makina>It's Makina.","","","",""
+"\n<Irina>...!
+You don't mean you're THE Blazing Haired Makina?","","","",""
+"\n<Makina>That's right.","","","",""
+"\n<Irina>Oh? I wouldn't have expected to meet a 
+famous adventurer like you here.","","","",""
+"\n<Irina>I guess word of these ruins has 
+spread pretty far already.","","","",""
+"\n<Irina>Still though, Blazing Haired Makina... ","","","",""
+"\n<Makina>Well? Are you going to give me a permit?","","","",""
+"\n<Irina>Hmmm... ","","","",""
+"\n<Irina>Alright, I'll issue you a permit.","","","",""
+"\n<Makina>Really? Just like that?","","","",""
+"\n<Irina>Yes. There's no reason to refuse someone of your caliber.","","","",""
+"\n<Makina>Feels like you're leaving something out.","","","",""
+"\n<Irina>In return, you'll have to agree to a condition. 
+As long as you agree to that, I'll give you a permit.
+Then you'll be free to explore the ruins as you see fit.","","","",""
+"\n<Makina>I figured it would come to this.
+So, what kind of condition are we talking about?","","","",""
+"\n<Irina>Something big is going to be happening soon.
+And as we're a bit short on combat power, I'd like your help.","","","",""
+"\n<Makina>What exactly is going to be happening?","","","",""
+"That I can't say. I can explain more once the time is right.
+But for now, I can't tell you any more than I already have.
+Well?","","","",""
+"\n<Makina>(It's a bit much, but I do need a permit...)","","","",""
+"\n<Makina>Alright, I'll go along with your condition.","","","",""
+"\n<Irina>As expected of Blazing Haired Makina.
+You didn't hesitate at all.","","","",""
+"\n<Makina>Well, now that I've agreed, you'll issue me a permit, right?","","","",""
+"\n<Irina>Of course. Please sign here.","","","",""
+"hide_treasure_popup","","","",""
+"show_treasure_popup","","","",""
+"Received a permit.","","","",""
+"\n<Makina>Thanks.","","","",""
+"\n<Irina>Of course. I look forward to working with you from now on.","","","",""
+"\n<Makina>Same goes to you.","","","",""
+"\n<Irina>Allos! I'm not letting you off with just a warning this time!","","","",""
+"\n<Allos>I understand, I'm sorry.","","","",""
+"\n<Irina>Do you realize that because of your actions, 
+your companions almost died!?","","","",""
+"\n<Allos>Y-yes... ","","","",""
+"\n<Irina>That's why I'm having you resign.","","","",""
+"\n<Allos>H-hold on! I'll do whatever it takes to make up for 
+what happened, but please, don't fire me!","","","",""
+"\n<Irina>No, no more excuses. It's not just this incident. 
+Your abilities have been subpar the entire time 
+you've been here. That's why you no longer have 
+a place here.","","","",""
+"\n<Allos>I-I'm begging you! The Guild is my life! 
+I'll redouble my efforts, so please, don't fire me!","","","",""
+"\n<Irina>It's too late. Pack up your belongings and leave. 
+You're dismissed.","","","",""
+"\n<Allos>E-excuse me... ","","","",""
+"\n<Makina>Are you sure about firing him like that?","","","",""
+"\n<Irina>It's fine. Anyways, it's none of your concern.","","","",""
+"\n<Makina>Well, I guess you're right.","","","",""
+"\n<Makina>So, did you have something you needed?","","","",""
+"\n<Irina>Yes. Do you remember our conversation during the interview? 
+The one about me wanting to move forward with a plan?","","","",""
+"\n<Makina>The one you wanted me to help you with?","","","",""
+"\n<Irina>That's the one. Our preparations are coming along, 
+so I'd like you to participate.","","","",""
+"\n<Makina>So? What kind of operation is it?","","","",""
+"\n<Irina>Makina, have you heard any rumors about 
+what's under this city?","","","",""
+"\n<Makina>""Under?"" You don't mean the ruins?","","","",""
+"\n<Irina>No, not the ruins. 
+Under the city of Gardona, lies another city of sorts.","","","",""
+"\n<Makina>What the hell? 
+I haven't heard anything about a place like that.","","","",""
+"\n<Irina>To be honest, we didn't learn about it until a few months ago. 
+Who would have thought there'd be another city.","","","",""
+"\n<Makina>To be able to build something that large scale without 
+everyone noticing... who could have done it?","","","",""
+"\n<Irina>Dalton.","","","",""
+"\n<Makina>Dalton? You mean that rich guy here in the city?","","","",""
+"\n<Irina>That's the one. He started off as an ordinary trader here. 
+But he suddenly started making large scale investments. 
+Now his investments rival that of traders in the capital.","","","",""
+"\n<Makina>But, what for?","","","",""
+"\n<Irina>To make even more money of course. That and to gain 
+political power. He plans on using this city to gain 
+a foothold in the capital.","","","",""
+"\n<Irina>And from there, he'll get even richer. He hasn't 
+been able to compete in the normal market, so he's taken 
+his business underground. Murder, brothels, casinos, drugs... 
+You name it.","","","",""
+"\n<Makina>I see. 
+So I take it your plan is to uncover his crimes?","","","",""
+"\n<Irina>Exactly. That's exactly what we're working towards.","","","",""
+"\n<Makina>So that means there's something you want me to do?","","","",""
+"\n<Irina>Precisely. I want you to infiltrate the underground market, 
+and find evidence linking Dalton to the illegal trade there.","","","",""
+"\n<Makina>What the hell is that!? 
+You don't want me helping, you want me to do the whole thing!","","","",""
+"\n<Irina>I'm sorry, but I can't rely on anyone but you. 
+If the Guild makes any sudden movements, we'll be discovered. 
+You won't stand out as much since you're new here, 
+and you can hold your own in a pinch, right?","","","",""
+"\n<Makina>Tsk, you were planning to use me from the start.","","","",""
+"\n<Irina>Yeah, pretty much.","","","",""
+"\n<Makina>Hahh... Well, that's fine I guess. 
+Maybe doing a little recon work will fire me up.","","","",""
+"\n<Irina>I was hoping you'd say that.","","","",""
+"\n<Irina>Then I leave the rest to you. 
+Go and find me some undeniable evidence.","","","",""
+"\n<Makina>Got it.","","","",""
+"The door is locked.","","","",""
+"\n<Makina>Hm? That's rare. 
+Irina's not here... ","","","",""
+"\n<Makina>Well, I didn't really need anything, so oh well... ","","","",""
+"EV019","","","",""
+"\n<Allos>Hahh, why is she always so mad at me?","","","",""
+"セリア","","","",""
+"EV021","","","",""
+"\n<Irina>Thanks to your help, we were able to stop Dalton's crimes. 
+Thank you.","","","",""
+"\n<Makina>Don't mention it. 
+Although, it's frustrating we couldn't have captured 
+him alive.","","","",""
+"\n<Irina>Yeah, it's going to make tracking his crimes more difficult, 
+and we still have to deal with the underground market.","","","",""
+"\n<Irina>Hahh... There's still a long road ahead of us.","","","",""
+"\n<Makina>Fufu, it's not like you to heave a sigh like that.","","","",""
+"\n<Irina>You're right, especially when there's still so much to do... ","","","",""
+"\n<Irina>So what are you going to do now, Makina?","","","",""
+"\n<Makina>I think for now I'm going to continue exploring the ruins. 
+After that, I want to look into how Dalton was 
+transformed into a monster.","","","",""
+"\n<Irina>What was up with that?","","","",""
+"\n<Makina>I'm not sure, but from what the researcher told me, 
+that monster was created from unnatural means.","","","",""
+"\n<Irina>Unnatural... 
+Are you saying someone turned Dalton into that monster?","","","",""
+"\n<Makina>Probably. While exploring the ruins, I've come across other 
+monsters like that, but this was before I was aware of 
+Dalton's crimes. But if Dalton was turned into a monster 
+like that, then that means... ","","","",""
+"\n<Irina>That means there's someone out there turning 
+people into monsters?","","","",""
+"\n<Makina>That's what I'm thinking.","","","",""
+"\n<Irina>Hm... ","","","",""
+"\n<Irina>This sounds like a matter for the guild to look into. 
+If someone like this is out there, then 
+they're more dangerous than Dalton.","","","",""
+"\n<Makina>Alright, then if I learn anything, I'll let you know.","","","",""
+"\n<Irina>Sounds good, that will help a lot. 
+But be careful out there, Makina.","","","",""
+"\n<Makina>I will. Later.","","","",""
