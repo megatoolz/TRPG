@@ -1,0 +1,275 @@
+Original Text;Gardona;EV001;EV002;EV003;EV004;EV005;EV006;EV007;EV008;EV009;EV010;EV011;EV012;EV013;EV014;EV015;EV016;EV017;EV018;EV019;EV020;EV021;EV022;EV023;EV024;EV025;EV026;EV027;EV028;EV029;EV030;EV031;EV032;EV033;EV034;EV035;EV036;EV037;EV038;EV039;EV040;EV041;EV042;The door is locked.;\n<Makina>Huh?;\n<Makina>The hell is Canton doing locking up like this!?;No amount of banging on the door brought anyone to it.;\n<Makina>Damn... he must be out... ;Right before giving up and leaving though... ;\n<???>... mm\I[90], ... ah, ...!!
+... \I[90], ...... nn, ......... \I[90]\I[90]!!!;\n<Makina>... ;\n<Makina>Eh?... Don't tell me... ;It was barely audible, but there was definitely a woman
+gasping on the other side of the door.;\n<Makina>Wait... you're kidding me... ;She was both shocked and disgusted.;But right as she turned to leave... ;\n<Makina>Wait... this voice... ;But upon hearing that voice, her feet froze in place.;\n<Makina>Don't tell me... ;She hesitantly glanced in through the window... ;\n<Makina>...!!;Her eyes instinctively locked on the sight before her... ;\n<Makina>I can't really go in there right now... ;\n<Makina>Hm?;\n<Makina>It's locked again... ;Not even intending to, she glanced in through the window... ;EV043;EV044;EV045;EV046;EV047;EV048;EV049;EV050;EV051;EV052;EV053;EV054;EV055;EV056;\n<Makina>This is where that Mohawk Guy is... ;\n<Makina>This is where that Mohwak Guy lives... ;Enter the man's tent?;Yes;No;\n<Makina>No no no, there's no way I'm going in there... ;You need at least 80 Depravity to access this scene.;\n<Makina>Yeah, there's no way I'm going in there... ;EV057;EV058;EV059;EV060;EV061;EV062;A depraved voice is coming from inside the tent.;Ahh, aa, ohh, it feels good there.\I[90]
+aaaah, more, thrust more, I'm cumming, I'm gonna cum.;Oooh, ooooooooooh!\I[90] 
+Cumming cumming, cumminggg!\I[90];\n<Man's Voice>Come on! How's my dick you cheating bitch?
+Yell it so your husband at home can here!;\n<Woman's Voice>OOOOH\I[90], I'm so sorry dear, but 
+it's good. This cock is amazing, 
+it's so much BETTER than yours!;\n<Woman's Voice>He keeps thrusting no matter how many 
+times I cum. There's no way I can stop cheating now \I[90]\I[90].;\n<Man's Voice>Nice, now I'll fill that slutty pussy of 
+yours with my cum. Take it all!;\n<Woman's Voice>OOOOOOOOOOOOO\I[90]!
+I'M CUMMING, I'M CUMMING \I[90]\I[90]!;\n<Woman's Voice>AHH, AHHHH, OH, OOOOOOH \I[90]!
+NOT THERE \I[90], I'M CUMMING, I'M, I'M CUMMING AGAIN \I[90]!;\n<Woman's Voice>AHHH, CUM, CUMMING, CUMMING \I[90]!
+nnnnnnnnAHHHHHHHHHHHHHHH \I[90]\I[90]!;\n<Man's Voice>Hahahaha, who don't you just get divorced?
+Seems like you can't live without my dick anymore right!
+SAY IT!;\n<Woman's Voice>Ahhhh, do it... I'll get divorced \I[90]!
+Your cock feels too amazing, I can't live without it,
+so I'll leave my husband's cock 
+and get married to yooooours \I[90]\I[90]!;\n<Man's Voice>Hahaha, ain't that a nice thing to be saying!
+Come on then! Tighten up that slutty pussy you cheating bitch!;\n<Woman's Voice>MmmOOOOO! Ahnnn, ooooh, AAAAAAA \I[90]!;EV063;EV064;EV065;EV066;EV067;EV068;EV069;ガルドナ到着;\n<Makina>I see. So this is Gardona... ;\n<Young Adventurer>Hey there, you new here? 
+You've come to search the ruins too, right?;\n<Makina>I am.  And?;\n<Young Adventurer>You'll want to head to the guild house.
+The city's currently being governed by the Adventurer's Guild.;\n<Young Adventurer>And if you want to search the ruins, 
+you'll need to get a permit from the guild.;\n<Makina>You don't say.;\n<Young Adventurer>However, the guild leader is a bit of a pain. 
+If you don't meet their standards, you won't 
+get a permit, so prepare yourself.;\n<Young Adventurer>By the way, the guild house is in the north part of the city. 
+And if you need it afterwards, the bar is over there.;\n<Makina>Thanks for the help.;\n<Young Adventurer>Hehe. No problem.;\n<Makina>I could head to the guild house, but maybe I should have
+a look around town before heading to the ruins.;EV071;\n<Lively Man>Whew, worked up a good sweat.;\n<Lively Man>Huh? Underground Market? Notes? 
+What are you talking about?;\n<Makina>Looks like it's not him... ;\n<Lively Man>I'd like to check out the ruins a bit.;EV072;\n<Man Obsessed with Training>Fu, fu, haaaaaa!!;\n<Makina>Hey, I heard I have to talk to you about getting into the 
+underground market.;\n<Man>... ;\n<Man>Who told you that?;\n<Makina>A drunk guy that was almost passed out.;\n<Man>Hmmm. You ain't with the guild.
+Well, if you got the notes you can go, but lemme ask you something.;\n<Man>What do ya need from the underground market?;I want to work at the brothel;I want to fight in the arena;I'm looking to get some drugs;I just want to check it out;\n<Man>That so? Well, there's plenty of work for someone like you...;\n<Man>You seem pretty confident in your abilities.;\n<Man>Dumbass don't talk about that out here. But that's a good reason.;\n<Man>Ain't gonna let you in for that shitty reason.;\n<Man>Another question. You know how to get to the underground market?;\n<Makina>I heard you have to go down some stairs.;\n<Man>Right, seems like you really do want to get in.;\n<Man>Last question. How do you get to the stairs to go down?;Through the ruins;A secret house;I don't know;\n<Man>Well then I can't help you.;\n<Man>That so. Good, you shouldn't know.
+Nobody's supposed to tell you about the stairs down there.;\n<Man>Only the one handling the notes is allowed to tell you.;\n<Man>Right, I'll give you your note. Here.;\n<Makina>Nice. So, how do I get there?;\n<Man>The warehouse next to the shitty inn. Show the guy there your note
+and he'll let you down.;\n<Makina>I see.;\n<Man>There are no rules down in the underground market.
+So you'd better be on guard.;\n<Makina>Who knows. Just clue me in.;\n<Man>Can't help you. If you really want 
+to go then you'd better be willing to talk.;\n<Man Obsessed with Training>The entrance to the underground market is in the warehouse 
+next to the cheap inn. Don't tell anyone else about it.;\n<Man Obsessed with Training>Dalton's the one that had us start using those damn notes.
+I'm just gonna keep on training my body.;案内;\n<Young Adventurer>Yo! It's you again.;\n<Young Adventurer>If you need some help, check out the guild or the bar. 
+You can learn a lot in those places!;\n<Young Adventurer>Hm? The rumor of the underground city?;\n<Young Adventurer>Yeah, I've heard about it. But I'd prefer to avoid getting 
+mixed up in that dangerous talk. So yeah, I've got nothing 
+for you on that topic.;\n<Young Adventurer>You're the one that took down 
+Dalton, right? Not bad!;\n<Young Adventurer>I'm proud of you!;EV074;\n<Loud-mouthed Merchant>The richest person in town is Mr. Dalton. 
+He was the first to find the ruins and 
+struck it rich right away.;\n<Loud-mouthed Merchant>Now I'm going to set up shop here.;\n<Loud-mouthed Merchant>The richest person in town is Mr. Dalton. 
+He was the first to find the ruins and 
+become succesful right away.;\n<Loud-mouthed Merchant>An underground city? 
+Haven't heard about it.;\n<Loud-mouthed Merchant>So Dalton only got where he was thanks to those 
+underhanded things... but I'm different. 
+I'll become an amazing merchant with my own power!;EV075;\n<Pretty Merchant>I have cheap potions! 
+Or do you want an antidote?;\n<Pretty Merchant>Welcome. 5 potions for 400G. 
+How about it?;Buy;Don't Buy;\n<Pretty Merchant>Thank you for your purchase.;400G was exchanged for 5 potions.;\n<Pretty Merchant>Thank you very much. Please come by again.;\n<Pretty Merchant>I'm sorry but you don't have enough money.;\n<Pretty Merchant>I see. Please come again.;EV076;\n<Energetic Showgirl>Welcome to Gardona!
+Please feel free to take a look at my shop!!;チャラい冒険者;\n<Flirtatious Adventurer>Hey, if you're thinking of where 
+to stay, you can come to my tent.♪ 
+I can teach you all about the town and ruins.;\n<Twin-tailed Adventurer>Uhhh, that sounds pretty sketchy.
+Sorry, I'm staying at the inn.;\n<Flirtatious Adventurer>Hey hey, how about today?
+Come by my tent, I guarantee you won't regret it.;\n<Twin-tailed Adventurer>Haaaa, fine.
+I'll go with you tonight.;\n<Twin-tailed Adventurer>But if you suck I'll leave.♪;\n<Twin-tailed Adventurer>Hehe, OK, OK.♪
+Let's hurry up then.;\n<Flirtatious Adventurer>Man, that was the best.♪
+If you ever want another go just let me know.;\n<Flirtatious Adventurer>Haaaaa... Man, it's tough 
+dealing with girls that always have their guard up.;\n<Makina>Well then, how about keeping me company?;\n<Flirtatious Adventurer>Seriously!?
+I'm just saying I ain't got any money.;\n<Makina>Who said anything about money?;\n<Flirtatious Adventurer>Hehe, I've been waiting for 
+a woman like you... ;\fiSlap Slap Slap\fi;\n<Makina>Ahh, mmmm, oooh... 
+Doing it out here during the day... \I[90]
+Oooh, mmmmh, ahhh, AHHH!;\n<Flirtatious Adventurer>Damn, this feels too damn good,
+Can't stop my hips... ;\n<Makina>Mmmm, ahhhh, oh god... \I[90];\n<Flirtatious Adventurer>Hey, look over the wall there,
+That girl, she might be able to see us right?;\n<Makina>Huh...?;\n<Makina>W-wait a sec, hold on!!;\n<Flirtatious Adventurer>Damn, you just started tightening
+up! Shit, too tight!;\n<Makina>No way, hold on she'll see us.;\n<Flirtatious Adventurer>Fuck, cumming.;\n<Makina>Ahhh, shit. No good, cumming... CUMMING!\I[90];Spurt, spurt, spurt.;\n<Makina>Ahhhhhhh... amazing... ;\n<Flirtatious Adventurer>Doing it outside is great♪.
+Lemme know if you want another go.;\n<Makina>If I feel like it... \I[90];EV078;\n<Twin-tailed Adventurer>Uhhh, that sounds pretty sketchy. 
+Sorry, I'm staying at the inn.;\n<Twin-tailed Adventurer>Haahh, fine.
+I'll go with you tonight.;EV079;\n<White-bearded Adventurer>Anyways, that damned bitch of a guild leader keeps 
+saying that she's in charge and holding us back. ;\n<Slit-eyed Adventurer>I know! It's pissing me off. It's not like her damn authority 
+here is worth anything. I'm getting sick of it. Maybe that 
+nice body of hers needs to get a little punishment.♪;\n<White-bearded Adventurer>Hehehe... that'd be nice. 
+Wish I could see her stupid face when I take her from
+behind and see if she could still act so high and mighty.;\n<White-bearded Adventurer>Seems like Irina's been 
+getting a bit softer as of late.;\n<Slit-eyed Adventurer>It's gotta be cause of a guy, right?
+Probably fucking her all night.;\n<White-bearded Adventurer>Only way to deal with a 
+woman like that is to take it to her in bed.;\n<Slit-eyed Adventurer>Damn, I want to do her too now.;EV080;EV081;\n<Hunched Over Merchant>This city has become lively thanks to the rumors. 
+My merchant's soul is all fired up, hohoho.;EV082;\n<Collapsed Adventurer>Ahhh-I'm beat. Gonna take a break.;EV083;\n<Daydreaming Woman>Ahhh\I[90], ahh\I[90], 
+I can't get enough of this manly smell.;EV084;\n<Debonair Adventurer>Yo, this is the training grounds. 
+Did you come to train?;\n<Debonair Adventurer>Yo, this is the training grounds.
+Did you come to train?;\n<Debonair Adventurer>Hm? Underground city? 
+What are you on about?;EV085;\n<Indignant Adventurer>Damnit, I've got no permit so 
+I can't get into the ruins.
+I won't forgive you Irina... One day, I'll get you.;\n<Indignant Adventurer>Damnit, the Guild has gotten 
+worse since they took out Dalton. Bastard should 
+have dealt with Irina before he got offed.;\n<Indignant Adventurer>It's weird, I hated Irina so much, 
+but it's all gone now. I feel strangely refreshed now 
+that I'm not so angry. I wonder what happened?;EV086;\n<Boy Running in Circles>Uoooo, I'm gonna sprint 
+at full power!!;EV087;\n<Boy Running Around>Uoooooooooo, I'm not gonna lose!!
+I'm gonna go up another gear!!;EV088;\n<Watching Woman>There are some cursed adventurers in this city.
+The sisters from the Church have taken them in
+since they can no longer work.;EV089;\n<Adventurer Remembering a Friend>Damn, you had to go and die before me. 
+But rest easy, I'll definitely get 
+the treasure from the ruins.;EV090;\n<Cat>Meow.;EV091;\n<Head-tilting Adventurer>That's strange... I'd heard that there was a brothel 
+and an arena in this city... ;\n<Head-tilting Adventurer>If they're not in this part of town, 
+then where are they?;\n<Head-tilting Adventurer>An underground market? 
+There's a place like that here? I'll bet that's where 
+the brothel and arena are!;\n<Pleased Adventurer>I finally found the underground market. 
+It's got a brothel and an arena, it's seriously great.;\n<Pleased Adventurer>But thanks to the whole Dalton thing it looks like 
+the Arena's closed.;酔っぱらい;\n<Drunk Treasure Hunter>Ahhh I drank too much.
+But man, it's great down there... the drinks are amazing.;\n<Makina>...?;\n<Makina>Hey you, know anything about the underground city?;\n<Drunk>Huh? Course I know bout it.;\n<Drunk>It's great there. Both the drinks and the brothel are amazing. 
+It's like heaven compared to this cramped shit hole.;\n<Makina>So how do you get there?;\n<Drunk>I ain't gonna tell ya that easy like.;\n<Makina>How much do you want?;\n<Drunk>Hmmm. Well I need some more to hit the bar up again... 
+How about 900 gold.;Pay;Don't Pay;\n<Drunk>Hehe, thanks.;\n<Makina>So, how do I get there?;\n<Drunk>Well it still won't be easy. To get down there 
+you'll need a promissory note from someone else.;\n<Makina>A promissory note... Where do I get one of those?;\n<Drunk>Look for a skinhead. He's the one dealing with them. 
+You can probably find him at the training grounds.;\n<Makina>Guess I'll head over there then.;\n<Drunk>Sure.;\n<Drunk>Hey, you ain't got enough.;\n<Drunk Treasure Hunter>You can get a promissory note from the skinhead. 
+He's usually at the training grounds.;\n<Drunk Treasure Hunter>Even if everyone knew about the underground market 
+nothing bad would happen. There's too many powerful 
+people that love it.;EV093;\n<Guide Girl>This is the district with the Guild, Item Shop, 
+and Weapon Shop.　There's also the Church 
+and Mr. Dalton's Mansion.;\n<Guide Girl>The guild is currently investigating 
+Dalton's mansion.;EV094;\n<Jealous Man>That mansion next to the church is 
+Mr. Dalton's. He was the first to find the ruins and 
+as a result has gotten filthy rich as the city has grown. 
+I'm pretty damn jealous of him.;\n<Jealous Man>I knew Dalton was sketchy from the 
+beginning. Man, If I'd just spoken up earlier I could 
+have gotten a reward.;EV095;\n<Tall Female Adventurer>The weapon shop sells good gear
+but the guy running it is a pervert. He had me strip and 
+said he was taking measurements while grabbing me all over.;\n<Tall Female Adventurer>You should be careful around him.;\n<Tall Female Adventurer>I saw a female Knight with 
+a broken sword enter the Blacksmiths shop earlier.;\n<Tall Female Adventurer>I'm sure she's hoping to 
+fix her sword but... 
+That old Canton is sure to ask her to do something weird... ;\n<Tall Female Adventurer>Recently I've been hearing 
+some lewd voices coming from Canton's shop. And they've 
+started sounding a lot more primal too.;EV096;\n<Wandering Minstrel>I've finally arrived in Gardona, the City of Ruins.~♪
+The city where adventurers gather to seek out their fortune.~♪
+Will their desires lead to their success or their ruin?~♪;\n<Wandering Minstrel>Everyone in the city respected the great millionaire.~♪
+But they didn't know who he really was.~♪
+The unendingly wicked man known as Dalton.~♪;\n<Wandering Minstrel>His wickedness was uncovered though.~♪
+But he was captured by one who's now the savior of the city.~♪
+And that wonderful adventurer is none other than Makina.~♪;EV097;\n<Stout Farmer>This is the Farmer's District. Because Adventurers 
+have such big appetites, we make quite a penny.;\n<Stout Farmer>Mr. Dalton was a good guest and all but... 
+Oh well, such is life.;EV098;\n<Commentary Girl>You can find items in barrels and pots.
+You should search the entire area.;EV099;\n<Farmer's Wife>One of those young adventurers spoke with me earlier.\I[90] 
+And with how he was staring, it was obvious that he was 
+interested.;\n<Farmer's Friend>How nice.~\I[90] 
+My husband doesn't pay attention to me anymore. 
+It's starting to get frustrating.
+Why don't we try going to the bar tonight?\I[90];\n<Farmer's Wife>Oh come on.♪ Though it could be pretty exciting. 
+But just once might be fine. Too bad for my husband.\I[90];\n<Farmer's Wife>Hey hey, so what happened with him yesterday? 
+That young guy at the bar you were drinking 
+and kept hitting on you.;\n<Farmer's Friend>Well, he pushed me down once we got to his tent, 
+and then he started kissing me and sweet-talking 
+and begging to do it over and over again.♪;\n<Farmer's Friend>So I went with the flow and before longwe were having sex. 
+I tell you, his dick just wouldn't quit no matter how much we 
+did it. The whole time he was telling me to become his 
+woman too.;\n<Farmer's Wife>Woah, that's crazy. Young guys sure are different.;\n<Farmer's Friend>So what about you? You had that older 
+guy that was all over you, right?;\n<Farmer's Wife>Hmmmm, I don't know if I should say.~\I[90];\n<Farmer's Friend>Hey, don't clam up on me now! Spit it out!;\n<Farmer's Wife>Hey, why don't we try going to the underground market? 
+I'll bet there's tons of good guys there.;\n<Farmer's Friend>My god, you just can't get enough of guys now. 
+What are you going to do if your husband catches you?;\n<Farmer's Wife>You say that, but you really want to go too, don't you? 
+You came back super late last night after all.;\n<Farmer's Friend>Hahaha, you saw that?
+Well, I guess we could check it out... ;EV100;\n<Farmer's Friend>Hey, don't clam up on me now!
+Spit it out!;EV101;\n<Old Carpenter>With all these adventurers showing up,I can't keep 
+up with demand. We've started putting them in tents, 
+but if this keeps up, we're going to have problems 
+with both the smell and hygiene.;\n<Old Carpenter>Building a city underground is just asking for problems. 
+I mean, think of how plague would spread due to all of 
+the sewage.;EV102;\n<Dog>Woof, woof!;EV103;\n<Cheerful Grandma>Ahh, good weather again.;EV104;\n<Old Farmer>Our farm was destroyed and the crops were stolen. 
+But it wasn't humans, it looks like the works of demons... 
+This is bad.;\n<Old Farmer>My crops have been getting ruined lately.
+I'm pretty sure it's the work of a goblin.;\n<Old Farmer>Well, it only seems to be a lone stray 
+so the damage hasn't been too bad so far. 
+It's still a problem though.;\n<Makina>A stray goblin you say? I wonder if it's
+the one down there... ;\n<Old Farmer>You wouldn't happen to know anything
+about it, would you?;\n<Makina>Yeah, I found a stray goblins house 
+down in the ruins.;\n<Old Farmer>Ooh, could you maybe deal with him for me then? 
+You don't have to kill him, just tell him to 
+stop stealing my vegetables.;\n<Makina>I guess I could. Just make sure you have 
+a reward waiting for me.;\n<Old Farmer>Of course. So long as the damage stops 
+I'll reward you. So I'm counting on you now!;\n<Makina>Let's see, the stray goblins house was on 
+floor B14 of the underground ruins.;\n<Old Farmer>I'm relying on you for that goblin.;\n<Old Farmer>Hey, how'd it go with that stray goblin?;\n<Makina>That's... it didn't go well... ;\n<Old Farmer>I see, he must be pretty strong then.;\n<Old Farmer>So, what about my request?
+I'd like it if you could give it another go.;\n<Makina>Well... ;Go one more time;Don't go;\n<Old Farmer>Ohhh, you will!? Please give it another shot.
+I'm counting on you.;\n<Makina>(Well, I'll give it one more try... ;\n<Old Farmer>Oh, I see... ;\n<Old Farmer>Well, if you change your mind let me know. 
+I don't think I could rely on any of the 
+other adventurers around here.;\n<Old Farmer>Oh it's you.
+Are you going to try and deal with the goblin again?;\n<Old Farmer>Ohhh, you will!? Please give it 
+another shot. I'm counting on you.;\n<Old Farmer>I'm relying on you for that stray goblin.;\n<Old Farmer>You're back... 
+How'd it go this time?;\n<Makina>Okay I guess, but not that well either... ;\n<Old Farmer>Is that so... ;\n<Old Farmer>Well, not much to be done about it then... 
+He's probably desparate to survive as is.;\n<Old Farmer>Hmmmm, let's see.
+I want to try and put an end to this stuff with the goblin.
+I'll have to think of what to do with my field now.;\n<Makina>Sorry, even though you asked for my help... ;\n<Old Farmer>Aw don't worry about it.
+Looks like I just caused you problems.
+Have this for your troubles.;Received an Elixir.;\n<Makina>What? No I can't take this, 
+I didn't do anything... ;\n<Old Farmer>Don't worry about it, you did your best.
+You'll need it on your adventurers.;\n<Old Farmer>Take care lassy.;\n<Makina>Yeah... ;\n<Makina>(I guess with this I don't need to go to 
+that goblin anymore... ;\n<Old Farmer>I'll figure out some way to deal 
+with that goblin.;EV105;\n<Farmer's Boy>I was playing around earlier, and an old adventurer 
+told me he'd teach me something good if I came into 
+his tent. What kind of thing do you think he meant?;EV106;\n<Pleasant Swordsman>To go to the ruins in the city, 
+you have to get a pass from the guild.;\n<Pleasant Swordsman>But to get one you have to have 
+an interview with the Guild Leader, Irina. She's not called
+the Iron Lady for nothing though. It's very difficult
+to get her approval.;\n<Pleasant Swordsman>That's why even though it's what they
+came here for, many adventurers can't actually
+explore the ruins. So now, a bunch of
+them are frustrated with her.;EV107;\n<Guild Guard>The mission from the country is
+supposed to be coming here soon. Seems like their 
+investigation is going to be starting.;\n<Guild Guard>Wait, won't that take the guild's 
+work away? What are we gonna do?;\n<Guild Guard>Thanks to the stuff with Dalton we've 
+been getting a bunch of extra work. 
+It's really wearing me out.;\n<Guild Guard>You wanna try and hit up the 
+underground market to relax?;EV108;見物人;\n<Quiet Woman>I wonder how Mr. Dalton makes his money. 
+Getting that rich just from investing in 
+the city seems unlikely.;\n<Quiet Woman>I hope that now that Dalton's gone, that
+the city will get a bit more peaceful.;\n<Quiet Woman>Oh, you were having sex with that guy earlier... ;\n<Makina>So you did see... ;\n<Quiet Woman>U-um... did it really feel that good?;\n<Makina>I guess so... \I[90];\n<Quiet Woman>I wish I could moan like that... ;EV110;\n<Pigtailed Adventurer>A lot of Adventurers have gone to Mr. Dalton
+for help, but he seems pretty strict when it comes to 
+repayment. I've also heard that people disappear
+inside his place. Seems scary to me.;\n<Pig-tailed Adventurer>I'm glad the captive adventurers are fine. 
+The guild is even being surprisingly diligent about 
+all this. They're even conducting an investigation.;EV111;\n<Guild Guard>This is the Guild's dormitory.;衛兵１;\n<Guild Guard>Oh? Are you going to go to the ruins?
+I used to be an adventurer like you,
+then I took an arrow to the knee.;EV113;\n<Guild Guard>If you're going to the ruins, be careful.
+It's not just monsters, there are bandits in there too.;EV114;\n<Guild Member>The Knight from the country was 
+supposed to be coming to conduct an investigation but 
+still hasn't arrived. I wonder if something happened.;\n<Guild Member>Celia showed up a bit ago with a 
+flashy Knight. Fortunately she looked like she was fine.;\n<Guild Member>It looks like Celia's sword broke.
+She'll probably need to go to the blacksmith to get it fixed.;\n<Guild Member>The operation is going to be starting soon.
+I wonder if Celia is going to be able to help us out.;\n<Guild Member>Thanks for all your hard work.
+Celia said she was going to talk to the monster researcher.;EV115;\n<Female Adventurer with Money Troubles>So this is Mr. Dalton's mansion.
+I came to see if he would lend me some money, but there 
+are strange rumors about him... What should I do?;\n<Female Adventurer with Money Troubles>Oh wow, I guess I was right not to borrow money here. 
+I might have ended up getting sold too.;EV116;\n<White-haired Adventurer>I heard that one of the Royal Knights is coming to 
+conduct an official investigation. It'd be nice 
+if nothing troublesome came of it... ;\n<White-haired Adventurer>I heard that one of the King's knights is coming to do 
+a legitimate investigation. It'd be nice if nothing 
+troublesome came of it... ;\n<White-haired Adventurer>Underground city? I heard someone 
+say it was under that cheap inn.;\n<White-haired Adventurer>With all the ruckus because of Dalton, 
+the city might become even more famous. 
+This could become quite troublesome... ;EV117;Found a Potion.;There's nothing inside.;EV118;EV119;EV120;EV121;EV122;You found a Potion.;EV123;Found a Potion;EV124;EV125;EV126;EV127;EV128;EV129;EV130;EV131;EV132;Found 200 Gold.;EV133;EV134;EV135;Found 250 Gold.;EV136;EV137;EV138;EV139;Found 70 Gold.;EV140;EV141;EV142;Found an Antidote.;EV143;\n<Searching Adventurer>Um, do you have a minute?;\n<Makina>What is it?;\n<Searching Adventurer>Three days ago, my adventurer 
+friends went missing. There's no way they'd go to the 
+ruins alone, so I think they may have been kidnapped.;\n<Makina>Sorry, I haven't.;\n<Searching Adventurer>I see... ;\n<Makina>I don't know if I can do anything... 
+But if I see something I'll let you know.;\n<Searching Adventurer>Oh! Thank you very much.;\n<Makina>Hm? Weren't you the one searching for 
+your missing friend? How's that worked out? Have 
+you found them yet?;\n<Searching Adventurer>Oh you remembered that?
+Um, my name is Millia.;\n<Millia>And about my friend, sadly I haven't 
+found them yet.;\n<Makina>Sorry to hear that.;\n<Millia>But I did find a clue. A few weeks ago she 
+was surrounded by a bunch of adventurers... ;\n<Millia>And apparently those adventurers work for 
+Mr. Dalton. At least that's what I heard.;\n<Makina>Dalton's adventurers... ;\n<Millia>So I've been trying to find a way to get in
+and have a word with Mr. Dalton.;\n<Makina>That Dalton guy is sounding more and more 
+suspicious. Missing people... don't tell me he's 
+involved in human trafficking?;\n<Millia>What?;\n<Makina>I know it's hard, but hold on for just a 
+bit longer. I'm going to see if I can find something.;\n<Millia>Oh, absolutely! Thank you so much!
+My friend's name is Sarya by the way.;\n<Millia>Oh Makina. Um, you wouldn't happen to have
+learned anything about Sarya, have you?;EV144;Found an Ether.;EV145;EV146;\n<Guild Guard>Hold up there. Do you have a permit?;\n<Makina>A permit? Can't say that I do.;\n<Guild Guard>If you want to enter the ruins you need a permit. 
+You can get one issued to you by the Guild.;\n<Makina>Got it.;\n<Guild Guard>You... have a permit. 
+Alright then go ahead.;EV147;\n<Guild Guard>You... have a permit. Alright then go ahead.;EV148;\n<Makina>Right, first off I need to infiltrate the 
+underground market.;\n<Makina>Guess I'll need to ask around to find 
+out how to get down there.;\n<Makina>Oh yeah, I should tell Celia about tomorrow.
+I can ask her to come along.;\n<Makina>Now where could she be right now... ;EV149;\n<Makina>Hmm, wonder if Celia is alright?;Do you want to view Celia's scene?
+(It will be added to your recollections regardless.);EV150;EV151;EV152;EV153;\n<Millia>Oh! Makina!
+You really did save Sarya, I can't thank you enough.;\n<Makina>I'm just glad she's safe now.;\n<Millia>Only thanks to you Makina. I know it's not 
+much, but please take this for all you did.;\n<Millia>Sarya is only back thanks to you Makina.
+Thank you so much.;EV154;\n<Sarya>Ummm, th-thank you so much... If you hadn't come 
+when you did... I don't know what would have happened.;\n<Makina>I'm just glad I could save you.;\n<Sarya>Thank you!;EV155;\n<Makina>What to do now?;\n<Makina>I could check out the ruins or look 
+around town for a bit.;アロス;EV157;\n<Makina>Huh? That guy over there,
+that's the guy Irina fired. Allos I think it was?;\n<Makina>Hey, what are you doing?;\n<Allos>Huh? 
+Oh, it's you, Makina.;\n<Allos>I'm not doing anything really.
+I was just wondering how to deal with her... ;\n<Makina>Her?;\n<Allos>But it's no use, I'm going to go... ;\n<Makina>Does he want to get back into the guild?
+Somehow I doubt that's it... ;\n<Makina>And besides the aura around him was 
+definitely different from before... 
+I should let Irina know about this.;EV158;\n<Makina>Whew, I was worried about that, but thankfully
+it seems like Celia is going to be fine.;\n<Makina>Those tentacles were all over her 
+so it couldn't be helped.;\n<Makina>But anyways, Celia was... 
+Yeah that was pretty wild... ;EV159;EV160;EV161;EV162;EV163;EV164;EV165;EV166;\n<Makina>Those two seemed so normal this morning... ;EV167;\n<Makina>I really shouldn't have looked yesterday... ;EV168;EV169;\n<Celia>What is it, Makina?;About the orcs;About Canton;It's nothing;\n<Makina>I really thought we were dead when we
+we got captured by those orcs.;\n<Celia>Haha, it certainly was dangerous.
+I am sorry for getting you involved.;\n<Makina>I guess it's fine seeing as we got out.;\n<Celia>Well then, would you like to go again?;\n<Makina>HUH!?;\n<Celia>Haha, just a joke.;\n<Makina>(I wonder about that...);\n<Makina>So Celia... 
+About Canton... ;\n<Celia>What about him?;\n<Makina>Well, I saw... 
+I saw you two having anal sex.;\n<Celia>Wha-... ;\n<Makina>I didn't know what to say so
+I thought I should just stay quiet... ;\n<Celia>I see... 
+So that's what you were worried about... ;\n<Makina>I'm sorry Celia.;\n<Celia>No, there is nothing for you to apologize 
+for Makina. It was all a result of my own actions.
+Thank you for talking to me about it though.;\n<Makina>Sure... ;\n<Celia>But still... you saw it all... ;\n<Celia>Hmmm... ;\n<Celia>Well then, why don't you join me the next time
+I go to visit Canton, Makina?;\n<Makina>Eh? W-what the hell are you saying!?;\n<Celia>Makina, if you are bringing it up like this, 
+you are probably interested are you not? 
+It excites you, doesn't it?;\n<Makina>T-there's no way... ;\n<Celia>It is fine if you are too embarassed right now.
+You are free to do what you would like.;\n<Celia>Is that so, well if there is anything you 
+would like to talk about feel free to come to me. 
+I will help however I can.;EV170;EV171;There's a bath inside.
+You shouldn't go in right now.;EV172;EV173
